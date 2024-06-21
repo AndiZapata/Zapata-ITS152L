@@ -1,0 +1,5 @@
+KEEP IN MIND:
+
+I wasn't able to upload certain files to the GitHub but having redownloaded the Lab Exercise folder
+and testing it, it works as intended. When testing the redownloade solution, the BlogDataLibrary was
+assigned as the startup project for some reason but this was easily fixed by assigning the BlogTestUI instead.
